@@ -61,7 +61,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anaferreirabezerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaferreirabezerra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-approf.com.ar-E0527A?style=for-the-badge&logo=vercel&logoColor=white)](https://approf.com.ar)
 [![GitHub](https://img.shields.io/badge/GitHub-Ana--FB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ana-FB)
 
 <br/>
