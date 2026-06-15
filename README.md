@@ -6,44 +6,6 @@
 
 </div>
 
----
-
-### 🛠️ Stack & Skills
-
-**🗄️ Data Engineering & Analytics**
-
-Python · SQL · PostgreSQL · BigQuery · Apache Spark · PySpark · Pandas · Delta Lake · dbt · MinIO · Parquet · CSV · JSON · ETL/ELT Pipelines · Data Lakehouse
-
-**📊 BI & Visualización**
-
-Power BI · DAX · Looker Studio · Grafana · Excel · Excel VBA · Tableau (básico)
-
-**☁️ Cloud & Infraestructura**
-
-GCP · Google Cloud Storage · BigQuery · Docker · Cloudflare · Cloudflare Tunnel · Cloudflare Zero Trust · Vercel · GitHub Pages
-
-**🤖 AI & LLMs**
-
-Claude (Anthropic) · ChatGPT (OpenAI) · Gemini (Google) · Perplexity · Claude API · OpenAI API · Gemini API · Prompt Engineering · AI Workflow Automation
-
-**⚙️ Automatización & No-code**
-
-n8n (self-hosted) · Make (Integromat) · Zapier · Google Apps Script · Webhooks · REST APIs · SerpAPI
-
-**🗃️ Bases de datos & Gestión**
-
-PostgreSQL · SQLite · Airtable · Google Sheets · BigQuery
-
-**📋 Productividad & Colaboración**
-
-Notion · Airtable · ClickUp · Slack · Trello · Google Workspace · GitHub · Git
-
-**👥 People Analytics & HR Tech**
-
-People Analytics · HR Operations · Recruitment Analytics · Attrition & Turnover · Engagement & eNPS · Headcount Planning · Diversidad & Equidad · ROI de RRHH · Workforce Planning · Time-to-Fill · Quality of Hire · KNIME
-
----
-
 ### 🎓 Educación & Formación
 
 - 🏫 **Ingeniería de Datos** — UTN Buenos Aires *(en curso)*
