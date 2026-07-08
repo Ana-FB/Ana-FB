@@ -4,16 +4,6 @@
 
 **`Transformando datos en insights · automatizando procesos · generando mejores decisiones`**
 
-</div>
-
-### 🎓 Educación & Formación
-
-- 🏫 **Ingeniería de Datos** — UTN Buenos Aires *(en curso)*
-- 📊 **Data Analytics** — Coderhouse
-- 🤖 **IA Automation** — Coderhouse
-- 👥 **HR Bootcamp® People Analytics** — Academia HumanosReales
-- 📈 **BI & Business Intelligence** — Gobierno de la Ciudad de Buenos Aires
-
 ---
 
 ### 📬 Contacto
