@@ -17,6 +17,4 @@
 
 *Siempre aprendiendo. Siempre mejorando.* 🌸
 
-![Visitors](https://komarev.com/ghpvc/?username=Ana-FB&color=E0527A&style=flat-square&label=Visitas+al+perfil)
-
 </div>
